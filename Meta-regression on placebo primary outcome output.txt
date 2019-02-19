@@ -1,0 +1,26 @@
+ 
+ MEAN YEAR:[1] "Note: the treatments have been renamed as follows"
+        old names new names
+1     Amisulpride         1
+2    Aripiprazole         2
+3       Asenapine         3
+4   Brexpiprazole         4
+5     Cariprazine         5
+6  Chlorpromazine         6
+7       Clozapine         7
+8     Haloperidol         8
+9     Iloperidone         9
+10       Loxapine        10
+11     Lurasidone        11
+12     Olanzapine        12
+13   Paliperidone        13
+14   Perphenazine        14
+15        Placebo        15
+16     Quetiapine        16
+17    Risperidone        17
+18     Sertindole        18
+19    Ziprasidone        19
+20       Zotepine        20
+21 Zuclopenthixol        21
+pdf 
+  4 

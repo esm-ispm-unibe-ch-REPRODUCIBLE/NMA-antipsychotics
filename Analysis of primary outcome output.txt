@@ -1,0 +1,1180 @@
+
+ 
+ FREQUENCY OF DRUGS 
+ 
+    Amisulpride    Aripiprazole       Asenapine   Brexpiprazole     Cariprazine  Chlorpromazine    Clopenthixol       Clozapine     Flupentixol    Fluphenazine     Haloperidol     Iloperidone 
+            705            1926            1027            1180             999             741              60             270              88              53            4400            2157 
+ Levomepromazin        Loxapine      Lurasidone       Molindone      Olanzapine    Paliperidone     Penfluridol        Perazine    Perphenazine        Pimozide         Placebo      Quetiapine 
+             21             289            1363              67            5602            1584              14              51             378              44            8067            3002 
+    Risperidone      Sertindole       Sulpiride    Thioridazine     Thiothixene Trifluoperazine     Ziprasidone        Zotepine  Zuclopenthixol 
+           3827             868              66             121              71             123            1228             245             178 
+
+ 
+ TOTAL NUMBER OF DRUGS 
+ 
+[1] 33
+
+ 
+ TOTAL NUMBER OF STUDIES 
+ 
+[1] 218
+
+ 
+ FREQUENCY OF MULTIARM STUDIES 
+ 
+
+  2   3   4   5 
+171  44   2   1 
+
+ 
+ 
+ ***************************** 
+ 
+ 
+
+ 
+ 
+ RESULTS USING NETMETA  
+ 
+ 
+
+ 
+ 
+ ***************************** 
+ 
+ 
+Original data (with adjusted standard errors for multi-arm studies):
+
+             treat1          treat2    TE   seTE seTE.adj narms multiarm
+3       Haloperidol     Risperidone  0.86 0.2607   0.2607     2         
+14      Haloperidol         Placebo -0.62 0.2040   0.2979     3        *
+14          Placebo      Quetiapine  0.59 0.1742   0.1997     3        *
+14      Haloperidol      Quetiapine -0.04 0.1721   0.1962     3        *
+31       Olanzapine         Placebo -0.71 0.2085   0.2085     2         
+32      Haloperidol      Olanzapine  0.06 0.1503   0.1708     3        *
+32      Haloperidol         Placebo -0.62 0.1798   0.2566     3        *
+32       Olanzapine         Placebo -0.68 0.1589   0.1855     3        *
+28      Haloperidol         Placebo -0.22 0.1996   0.1996     2         
+33      Haloperidol      Olanzapine  0.18 0.1367   0.1367     2         
+346  Chlorpromazine      Quetiapine  0.05 0.1429   0.1429     2         
+347     Amisulpride     Risperidone -0.17 0.1327   0.1327     2         
+643     Amisulpride     Haloperidol -0.53 0.3363   0.3363     2         
+751     Haloperidol        Zotepine -0.14 0.3940   0.3940     2         
+752       Clozapine     Haloperidol -0.06 0.3431   0.3431     2         
+843    Aripiprazole         Placebo -0.43 0.1232   0.1412     3        *
+843    Aripiprazole     Risperidone  0.07 0.1253   0.1447     3        *
+843         Placebo     Risperidone  0.50 0.1445   0.2067     3        *
+47   Chlorpromazine         Placebo -0.70 0.4769   0.4769     2         
+51      Haloperidol      Olanzapine -0.44 0.4199   0.4199     2         
+59       Olanzapine         Placebo -0.18 0.1708   0.1708     2         
+65          Placebo     Risperidone  0.66 0.1355   0.1355     2         
+68     Aripiprazole     Risperidone  0.08 0.2233   0.2233     2         
+71         Loxapine         Placebo -0.03 0.3204   0.3914     3        *
+71         Loxapine     Thiothixene  0.56 0.3191   0.3882     3        *
+71          Placebo     Thiothixene  0.58 0.3240   0.4005     3        *
+75      Haloperidol         Placebo -0.54 0.3110   0.3730     3        *
+75          Placebo     Risperidone  1.17 0.3285   0.4181     3        *
+75      Haloperidol     Risperidone  0.63 0.3133   0.3780     3        *
+83   Chlorpromazine    Thioridazine  0.21 0.3213   0.4359     4        *
+83     Fluphenazine    Thioridazine  0.43 0.3332   0.4773     4        *
+83          Placebo    Thioridazine  0.68 0.3393   0.4996     4        *
+83   Chlorpromazine         Placebo -0.47 0.3298   0.4660     4        *
+83     Fluphenazine         Placebo -0.24 0.3347   0.4716     4        *
+83   Chlorpromazine    Fluphenazine -0.22 0.3260   0.4595     4        *
+84   Chlorpromazine        Loxapine  0.26 0.3398   0.4097     3        *
+84   Chlorpromazine         Placebo -0.16 0.3490   0.4316     3        *
+84         Loxapine         Placebo -0.43 0.3479   0.4289     3        *
+88   Chlorpromazine    Clopenthixol -0.28 0.3991   0.5427     4        *
+88   Chlorpromazine     Haloperidol -0.29 0.4054   0.5630     4        *
+88   Chlorpromazine         Placebo -1.23 0.4531   0.7793     4        *
+88     Clopenthixol     Haloperidol -0.01 0.3716   0.4987     4        *
+88     Clopenthixol         Placebo -0.96 0.4032   0.5515     4        *
+88      Haloperidol         Placebo -0.94 0.4092   0.5714     4        *
+98   Chlorpromazine       Clozapine  0.55 0.3313   0.3313     2         
+104        Loxapine         Placebo -0.30 0.4030   0.4851     3        *
+104         Placebo Trifluoperazine  0.68 0.4222   0.5344     3        *
+104        Loxapine Trifluoperazine  0.38 0.4046   0.4886     3        *
+105        Loxapine         Placebo -0.51 0.3528   0.3528     2         
+106  Chlorpromazine         Placebo -0.95 0.5042   0.5042     2         
+107     Haloperidol     Risperidone -0.13 0.3089   0.3089     2         
+112      Olanzapine     Risperidone -0.01 0.1060   0.1060     2         
+115  Chlorpromazine         Placebo -0.08 0.1943   0.2326     3        *
+115         Placebo        Zotepine  0.82 0.2025   0.2521     3        *
+115  Chlorpromazine        Zotepine  0.74 0.2010   0.2480     3        *
+117     Haloperidol      Quetiapine -0.14 0.0958   0.0958     2         
+118      Olanzapine         Placebo -0.50 0.1525   0.1525     2         
+127         Placebo     Ziprasidone  0.51 0.1462   0.1462     2         
+129      Olanzapine         Placebo -0.73 0.1318   0.1634     3        *
+129    Paliperidone         Placebo -0.64 0.1316   0.1630     3        *
+129      Olanzapine    Paliperidone -0.09 0.1268   0.1518     3        *
+134        Perazine        Zotepine -0.16 0.3168   0.3168     2         
+140      Olanzapine         Placebo -0.22 0.1877   0.1877     2         
+146       Clozapine     Haloperidol -0.71 0.3276   0.3276     2         
+156     Haloperidol        Zotepine -0.55 0.3229   0.3229     2         
+163     Haloperidol         Placebo -0.67 0.1886   0.1886     2         
+165     Flupentixol      Olanzapine -0.10 0.4006   0.4006     2         
+167  Chlorpromazine       Clozapine  1.00 0.5592   0.5592     2         
+170       Clozapine     Risperidone -0.16 0.3542   0.4327     3        *
+170     Haloperidol     Risperidone  0.19 0.3545   0.4334     3        *
+170       Clozapine     Haloperidol -0.35 0.3566   0.4387     3        *
+173     Haloperidol     Ziprasidone  0.02 0.3299   0.3299     2         
+180     Haloperidol      Sertindole -0.03 0.1108   0.1108     2         
+189       Clozapine     Risperidone -0.18 0.2744   0.2744     2         
+190       Asenapine      Olanzapine  0.16 0.1207   0.1393     3        *
+190       Asenapine         Placebo -0.18 0.1196   0.1374     3        *
+190      Olanzapine         Placebo -0.34 0.1394   0.1986     3        *
+191       Asenapine      Olanzapine  0.22 0.1539   0.1902     3        *
+191       Asenapine         Placebo  0.21 0.1521   0.1857     3        *
+191      Olanzapine         Placebo -0.02 0.1517   0.1847     3        *
+192         Placebo    Thioridazine  1.16 0.6151   0.6151     2         
+199       Clozapine     Haloperidol -0.76 0.2334   0.2334     2         
+210     Haloperidol        Zotepine -0.25 0.2400   0.2400     2         
+211     Amisulpride     Risperidone  0.23 0.2934   0.2934     2         
+216     Haloperidol     Risperidone  0.08 0.2542   0.2542     2         
+219      Olanzapine    Paliperidone -0.04 0.1709   0.2188     3        *
+219    Paliperidone         Placebo -0.70 0.1250   0.1355     3        *
+219      Olanzapine         Placebo -0.74 0.1747   0.2379     3        *
+224     Flupentixol         Placebo -0.75 0.3798   0.3798     2         
+227         Placebo      Quetiapine  0.39 0.1050   0.1050     2         
+231    Aripiprazole     Haloperidol  0.01 0.1205   0.1388     3        *
+231    Aripiprazole         Placebo -0.43 0.1210   0.1397     3        *
+231     Haloperidol         Placebo -0.44 0.1397   0.1983     3        *
+234    Aripiprazole      Olanzapine  0.21 0.0843   0.0843     2         
+235       Asenapine     Haloperidol -0.02 0.1166   0.1363     3        *
+235     Haloperidol         Placebo -0.30 0.1316   0.1829     3        *
+235       Asenapine         Placebo -0.33 0.1142   0.1319     3        *
+245      Olanzapine         Placebo -0.25 0.1565   0.1565     2         
+247     Amisulpride     Haloperidol  0.24 0.4616   0.4616     2         
+248     Haloperidol         Placebo -0.75 0.3482   0.3482     2         
+249       Clozapine     Haloperidol -0.88 0.3849   0.3849     2         
+252       Clozapine      Olanzapine -0.23 0.3665   0.3665     2         
+280      Olanzapine         Placebo -0.86 0.2760   0.2760     2         
+290      Olanzapine      Sertindole -0.23 0.1029   0.1029     2         
+295  Chlorpromazine         Placebo -0.58 0.2784   0.2784     2         
+298     Haloperidol     Risperidone  0.59 0.1814   0.2205     3        *
+298         Placebo     Risperidone  0.95 0.1875   0.2368     3        *
+298     Haloperidol         Placebo -0.36 0.1783   0.2136     3        *
+307    Aripiprazole         Placebo -0.43 0.1210   0.1210     2         
+312     Haloperidol         Placebo -0.52 0.1472   0.1472     2         
+313         Placebo     Risperidone  0.62 0.1193   0.1193     2         
+319     Haloperidol     Risperidone -0.45 0.3440   0.3440     2         
+320     Amisulpride     Haloperidol -0.20 0.1462   0.1462     2         
+323         Placebo    Thioridazine  0.64 0.2916   0.2916     2         
+325      Olanzapine     Risperidone -0.16 0.3209   0.3945     3        *
+325      Quetiapine     Risperidone  0.11 0.3206   0.3937     3        *
+325      Olanzapine      Quetiapine -0.27 0.3178   0.3869     3        *
+331    Aripiprazole         Placebo -0.38 0.1167   0.1670     3        *
+331     Cariprazine         Placebo -0.40 0.1008   0.1163     3        *
+331    Aripiprazole     Cariprazine  0.02 0.0997   0.1144     3        *
+345     Haloperidol     Risperidone  0.14 0.0818   0.0818     2         
+350         Placebo    Thioridazine  0.45 0.5961   0.5961     2         
+359  Chlorpromazine       Clozapine -0.37 0.3330   0.3330     2         
+367  Chlorpromazine         Placebo -0.59 0.2785   0.2785     2         
+376      Olanzapine      Quetiapine  0.16 0.3489   0.3489     2         
+381     Haloperidol      Olanzapine -0.06 0.1303   0.1303     2         
+394      Olanzapine         Placebo -1.01 0.1855   0.1855     2         
+403      Lurasidone         Placebo -0.58 0.1790   0.1790     2         
+404     Haloperidol      Lurasidone -0.28 0.1466   0.1701     3        *
+404     Haloperidol         Placebo -0.19 0.1676   0.2337     3        *
+404      Lurasidone         Placebo  0.09 0.1467   0.1702     3        *
+405     Haloperidol         Placebo -0.64 0.1612   0.2338     3        *
+405         Placebo     Ziprasidone  0.35 0.1382   0.1586     3        *
+405     Haloperidol     Ziprasidone -0.29 0.1368   0.1563     3        *
+412     Haloperidol     Iloperidone -0.02 0.0951   0.0951     2         
+418    Aripiprazole     Haloperidol -0.22 0.1930   0.2367     3        *
+418    Aripiprazole         Placebo -0.57 0.1939   0.2388     3        *
+418     Haloperidol         Placebo -0.35 0.1914   0.2329     3        *
+421      Olanzapine      Quetiapine -0.10 0.3092   0.3092     2         
+423      Olanzapine     Ziprasidone -0.45 0.2926   0.2926     2         
+429  Chlorpromazine         Placebo -0.68 0.3772   0.3772     2         
+447     Amisulpride      Olanzapine -0.51 0.3394   0.3394     2         
+ [ reached getOption("max.print") -- omitted 183 rows ]
+
+Number of treatment arms (by study):
+     narms
+1010     2
+1020     2
+1022     2
+1027     2
+1033     2
+104      3
+105      2
+1056     2
+106      2
+1069     2
+107      2
+1116     2
+112      2
+1131     2
+115      3
+117      2
+118      2
+1184     2
+1187     2
+1191     2
+1204     2
+1213     2
+1239     2
+1243     2
+1245     2
+1260     2
+1265     2
+127      2
+1277     2
+129      3
+1296     2
+1309     2
+1315     2
+1326     2
+134      2
+1340     2
+1347     2
+1363     2
+1379     2
+1382     2
+14       3
+140      2
+1406     2
+1408     3
+1415     3
+146      2
+156      2
+163      2
+165      2
+167      2
+170      3
+173      2
+180      2
+189      2
+190      3
+191      3
+192      2
+199      2
+210      2
+211      2
+216      2
+219      3
+224      2
+227      2
+231      3
+234      2
+235      3
+245      2
+247      2
+248      2
+249      2
+252      2
+2798     2
+28       2
+280      2
+290      2
+295      2
+298      3
+3        2
+3017     2
+307      2
+31       2
+3114     2
+312      2
+313      2
+3171     2
+319      2
+32       3
+320      2
+323      2
+325      3
+3279     2
+33       2
+331      3
+3318     2
+3325     3
+3357     2
+3367     2
+3371     2
+3381     2
+3386     2
+3445     2
+3448     2
+345      2
+346      2
+3465     2
+3469     2
+347      2
+350      2
+359      2
+367      2
+3687     2
+376      2
+381      2
+3919     5
+394      2
+403      2
+404      3
+405      3
+412      2
+418      3
+421      2
+423      2
+429      2
+447      2
+456      2
+4686     2
+4691     2
+4692     2
+47       2
+486      2
+51       2
+518      2
+523      2
+533      2
+539      2
+547      2
+550      2
+555      3
+557      3
+559      3
+560      2
+578      2
+583      2
+59       2
+591      3
+596      2
+597      3
+601      2
+607      2
+611      2
+629      2
+632      2
+633      3
+643      2
+649      3
+65       2
+659      2
+665      2
+674      2
+68       2
+684      2
+702      3
+709      2
+71       3
+710      2
+714      2
+715      2
+718      2
+722      2
+723      2
+724      2
+734      3
+740      2
+75       3
+751      2
+752      2
+776      2
+779      2
+789      3
+807      2
+816      2
+817      2
+829      2
+83       4
+832      2
+84       3
+843      3
+845      3
+851      2
+867      2
+88       4
+891      2
+892      2
+893      3
+894      3
+895      3
+897      2
+898      2
+899      3
+900      3
+901      3
+904      2
+915      2
+922      3
+923      2
+936      2
+942      3
+944      2
+945      2
+946      3
+965      2
+968      2
+978      2
+98       2
+989      2
+992      2
+998      2
+
+Results (random effects model):
+
+             treat1          treat2   SMD         95%-CI
+3       Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+14      Haloperidol         Placebo -0.46 [-0.53; -0.40]
+14          Placebo      Quetiapine  0.41 [ 0.33;  0.50]
+14      Haloperidol      Quetiapine -0.05 [-0.15;  0.04]
+31       Olanzapine         Placebo -0.55 [-0.62; -0.49]
+32      Haloperidol      Olanzapine  0.09 [ 0.01;  0.16]
+32      Haloperidol         Placebo -0.46 [-0.53; -0.40]
+32       Olanzapine         Placebo -0.55 [-0.62; -0.49]
+28      Haloperidol         Placebo -0.46 [-0.53; -0.40]
+33      Haloperidol      Olanzapine  0.09 [ 0.01;  0.16]
+346  Chlorpromazine      Quetiapine -0.03 [-0.17;  0.12]
+347     Amisulpride     Risperidone -0.19 [-0.34; -0.03]
+643     Amisulpride     Haloperidol -0.26 [-0.41; -0.11]
+751     Haloperidol        Zotepine  0.13 [-0.08;  0.34]
+752       Clozapine     Haloperidol -0.40 [-0.59; -0.22]
+843    Aripiprazole         Placebo -0.41 [-0.50; -0.31]
+843    Aripiprazole     Risperidone  0.13 [ 0.03;  0.24]
+843         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+47   Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+51      Haloperidol      Olanzapine  0.09 [ 0.01;  0.16]
+59       Olanzapine         Placebo -0.55 [-0.62; -0.49]
+65          Placebo     Risperidone  0.54 [ 0.47;  0.61]
+68     Aripiprazole     Risperidone  0.13 [ 0.03;  0.24]
+71         Loxapine         Placebo -0.44 [-0.63; -0.25]
+71         Loxapine     Thiothixene  0.17 [-0.19;  0.53]
+71          Placebo     Thiothixene  0.61 [ 0.26;  0.96]
+75      Haloperidol         Placebo -0.46 [-0.53; -0.40]
+75          Placebo     Risperidone  0.54 [ 0.47;  0.61]
+75      Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+83   Chlorpromazine    Thioridazine  0.10 [-0.20;  0.41]
+83     Fluphenazine    Thioridazine  0.30 [-0.15;  0.75]
+83          Placebo    Thioridazine  0.54 [ 0.25;  0.83]
+83   Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+83     Fluphenazine         Placebo -0.24 [-0.63;  0.15]
+83   Chlorpromazine    Fluphenazine -0.20 [-0.59;  0.20]
+84   Chlorpromazine        Loxapine  0.00 [-0.19;  0.20]
+84   Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+84         Loxapine         Placebo -0.44 [-0.63; -0.25]
+88   Chlorpromazine    Clopenthixol -0.03 [-0.41;  0.34]
+88   Chlorpromazine     Haloperidol  0.03 [-0.11;  0.17]
+88   Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+88     Clopenthixol     Haloperidol  0.06 [-0.32;  0.44]
+88     Clopenthixol         Placebo -0.40 [-0.78; -0.03]
+88      Haloperidol         Placebo -0.46 [-0.53; -0.40]
+98   Chlorpromazine       Clozapine  0.43 [ 0.22;  0.64]
+104        Loxapine         Placebo -0.44 [-0.63; -0.25]
+104         Placebo Trifluoperazine  0.24 [-0.06;  0.54]
+104        Loxapine Trifluoperazine -0.21 [-0.50;  0.09]
+105        Loxapine         Placebo -0.44 [-0.63; -0.25]
+106  Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+107     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+112      Olanzapine     Risperidone -0.01 [-0.09;  0.07]
+115  Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+115         Placebo        Zotepine  0.60 [ 0.38;  0.81]
+115  Chlorpromazine        Zotepine  0.16 [-0.08;  0.40]
+117     Haloperidol      Quetiapine -0.05 [-0.15;  0.04]
+118      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+127         Placebo     Ziprasidone  0.40 [ 0.30;  0.51]
+129      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+129    Paliperidone         Placebo -0.48 [-0.59; -0.38]
+129      Olanzapine    Paliperidone -0.07 [-0.18;  0.04]
+134        Perazine        Zotepine  0.30 [-0.13;  0.73]
+140      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+146       Clozapine     Haloperidol -0.40 [-0.59; -0.22]
+156     Haloperidol        Zotepine  0.13 [-0.08;  0.34]
+163     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+165     Flupentixol      Olanzapine  0.14 [-0.21;  0.50]
+167  Chlorpromazine       Clozapine  0.43 [ 0.22;  0.64]
+170       Clozapine     Risperidone -0.32 [-0.52; -0.13]
+170     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+170       Clozapine     Haloperidol -0.40 [-0.59; -0.22]
+173     Haloperidol     Ziprasidone -0.06 [-0.17;  0.05]
+180     Haloperidol      Sertindole -0.07 [-0.21;  0.06]
+189       Clozapine     Risperidone -0.32 [-0.52; -0.13]
+190       Asenapine      Olanzapine  0.17 [ 0.03;  0.30]
+190       Asenapine         Placebo -0.38 [-0.51; -0.26]
+190      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+191       Asenapine      Olanzapine  0.17 [ 0.03;  0.30]
+191       Asenapine         Placebo -0.38 [-0.51; -0.26]
+191      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+192         Placebo    Thioridazine  0.54 [ 0.25;  0.83]
+199       Clozapine     Haloperidol -0.40 [-0.59; -0.22]
+210     Haloperidol        Zotepine  0.13 [-0.08;  0.34]
+211     Amisulpride     Risperidone -0.19 [-0.34; -0.03]
+216     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+219      Olanzapine    Paliperidone -0.07 [-0.18;  0.04]
+219    Paliperidone         Placebo -0.48 [-0.59; -0.38]
+219      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+224     Flupentixol         Placebo -0.41 [-0.76; -0.06]
+227         Placebo      Quetiapine  0.41 [ 0.33;  0.50]
+231    Aripiprazole     Haloperidol  0.06 [-0.05;  0.16]
+231    Aripiprazole         Placebo -0.41 [-0.50; -0.31]
+231     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+234    Aripiprazole      Olanzapine  0.15 [ 0.05;  0.24]
+235       Asenapine     Haloperidol  0.08 [-0.06;  0.22]
+235     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+235       Asenapine         Placebo -0.38 [-0.51; -0.26]
+245      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+247     Amisulpride     Haloperidol -0.26 [-0.41; -0.11]
+248     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+249       Clozapine     Haloperidol -0.40 [-0.59; -0.22]
+252       Clozapine      Olanzapine -0.31 [-0.51; -0.12]
+280      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+290      Olanzapine      Sertindole -0.16 [-0.31; -0.02]
+295  Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+298     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+298         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+298     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+307    Aripiprazole         Placebo -0.41 [-0.50; -0.31]
+312     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+313         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+319     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+320     Amisulpride     Haloperidol -0.26 [-0.41; -0.11]
+323         Placebo    Thioridazine  0.54 [ 0.25;  0.83]
+325      Olanzapine     Risperidone -0.01 [-0.09;  0.07]
+325      Quetiapine     Risperidone  0.13 [ 0.03;  0.23]
+325      Olanzapine      Quetiapine -0.14 [-0.24; -0.04]
+331    Aripiprazole         Placebo -0.41 [-0.50; -0.31]
+331     Cariprazine         Placebo -0.34 [-0.49; -0.20]
+331    Aripiprazole     Cariprazine -0.06 [-0.22;  0.10]
+345     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+350         Placebo    Thioridazine  0.54 [ 0.25;  0.83]
+359  Chlorpromazine       Clozapine  0.43 [ 0.22;  0.64]
+367  Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+376      Olanzapine      Quetiapine -0.14 [-0.24; -0.04]
+381     Haloperidol      Olanzapine  0.09 [ 0.01;  0.16]
+394      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+403      Lurasidone         Placebo -0.36 [-0.48; -0.24]
+404     Haloperidol      Lurasidone -0.10 [-0.23;  0.03]
+404     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+404      Lurasidone         Placebo -0.36 [-0.48; -0.24]
+405     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+405         Placebo     Ziprasidone  0.40 [ 0.30;  0.51]
+405     Haloperidol     Ziprasidone -0.06 [-0.17;  0.05]
+412     Haloperidol     Iloperidone -0.14 [-0.25; -0.03]
+418    Aripiprazole     Haloperidol  0.06 [-0.05;  0.16]
+418    Aripiprazole         Placebo -0.41 [-0.50; -0.31]
+418     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+421      Olanzapine      Quetiapine -0.14 [-0.24; -0.04]
+423      Olanzapine     Ziprasidone -0.15 [-0.26; -0.04]
+429  Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+447     Amisulpride      Olanzapine -0.17 [-0.33; -0.02]
+456        Perazine        Zotepine  0.30 [-0.13;  0.73]
+486    Aripiprazole     Ziprasidone -0.00 [-0.13;  0.13]
+518     Risperidone     Ziprasidone -0.14 [-0.25; -0.03]
+523     Haloperidol      Olanzapine  0.09 [ 0.01;  0.16]
+533     Risperidone      Sertindole -0.15 [-0.30; -0.01]
+539      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+547     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+550     Haloperidol      Olanzapine  0.09 [ 0.01;  0.16]
+555     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+555  Levomepromazin     Risperidone  0.50 [-0.08;  1.07]
+555     Haloperidol  Levomepromazin -0.42 [-0.99;  0.15]
+557     Haloperidol    Thioridazine  0.08 [-0.22;  0.37]
+557         Placebo    Thioridazine  0.54 [ 0.25;  0.83]
+557     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+559     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+559         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+559     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+560         Placebo      Quetiapine  0.41 [ 0.33;  0.50]
+578     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+583    Perphenazine         Placebo -0.55 [-0.74; -0.37]
+591  Chlorpromazine       Molindone -0.03 [-0.40;  0.35]
+591  Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+591       Molindone         Placebo -0.41 [-0.79; -0.03]
+596     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+597     Haloperidol        Loxapine -0.02 [-0.22;  0.17]
+597     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+597        Loxapine         Placebo -0.44 [-0.63; -0.25]
+601      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+607      Olanzapine     Ziprasidone -0.15 [-0.26; -0.04]
+611         Placebo      Quetiapine  0.41 [ 0.33;  0.50]
+629     Amisulpride     Haloperidol -0.26 [-0.41; -0.11]
+632    Aripiprazole         Placebo -0.41 [-0.50; -0.31]
+633     Iloperidone         Placebo -0.33 [-0.44; -0.21]
+633     Iloperidone     Ziprasidone  0.08 [-0.07;  0.22]
+633         Placebo     Ziprasidone  0.40 [ 0.30;  0.51]
+649     Cariprazine     Risperidone  0.20 [ 0.04;  0.35]
+649         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+649     Cariprazine         Placebo -0.34 [-0.49; -0.20]
+659         Placebo      Quetiapine  0.41 [ 0.33;  0.50]
+665    Aripiprazole      Olanzapine  0.15 [ 0.05;  0.24]
+674         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+684      Olanzapine     Ziprasidone -0.15 [-0.26; -0.04]
+702  Chlorpromazine         Placebo -0.44 [-0.57; -0.30]
+702       Clozapine         Placebo -0.87 [-1.06; -0.68]
+702  Chlorpromazine       Clozapine  0.43 [ 0.22;  0.64]
+709    Perphenazine     Risperidone -0.01 [-0.20;  0.18]
+710     Risperidone  Zuclopenthixol -0.04 [-0.29;  0.20]
+714     Haloperidol      Olanzapine  0.09 [ 0.01;  0.16]
+715       Clozapine     Haloperidol -0.40 [-0.59; -0.22]
+718     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+722    Paliperidone         Placebo -0.48 [-0.59; -0.38]
+723    Paliperidone         Placebo -0.48 [-0.59; -0.38]
+724    Paliperidone         Placebo -0.48 [-0.59; -0.38]
+734      Olanzapine    Paliperidone -0.07 [-0.18;  0.04]
+734      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+734    Paliperidone         Placebo -0.48 [-0.59; -0.38]
+740         Placebo     Ziprasidone  0.40 [ 0.30;  0.51]
+776         Placebo      Quetiapine  0.41 [ 0.33;  0.50]
+779     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+789      Olanzapine    Paliperidone -0.07 [-0.18;  0.04]
+789      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+789    Paliperidone         Placebo -0.48 [-0.59; -0.38]
+807       Clozapine        Zotepine -0.27 [-0.53; -0.01]
+816     Haloperidol     Risperidone  0.08 [ 0.00;  0.15]
+817     Haloperidol      Quetiapine -0.05 [-0.15;  0.04]
+829      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+832     Haloperidol        Zotepine  0.13 [-0.08;  0.34]
+845       Asenapine     Risperidone  0.16 [ 0.02;  0.30]
+845         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+845       Asenapine         Placebo -0.38 [-0.51; -0.26]
+851     Amisulpride     Haloperidol -0.26 [-0.41; -0.11]
+867     Amisulpride        Perazine -0.43 [-0.89;  0.04]
+891      Lurasidone         Placebo -0.36 [-0.48; -0.24]
+892      Lurasidone         Placebo -0.36 [-0.48; -0.24]
+893      Lurasidone         Placebo -0.36 [-0.48; -0.24]
+893      Olanzapine         Placebo -0.55 [-0.62; -0.49]
+893      Lurasidone      Olanzapine  0.19 [ 0.06;  0.32]
+894      Lurasidone         Placebo -0.36 [-0.48; -0.24]
+894      Lurasidone      Quetiapine  0.05 [-0.09;  0.19]
+894         Placebo      Quetiapine  0.41 [ 0.33;  0.50]
+895     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+895     Iloperidone         Placebo -0.33 [-0.44; -0.21]
+895     Haloperidol     Iloperidone -0.14 [-0.25; -0.03]
+897     Haloperidol     Iloperidone -0.14 [-0.25; -0.03]
+898     Haloperidol     Iloperidone -0.14 [-0.25; -0.03]
+899     Iloperidone         Placebo -0.33 [-0.44; -0.21]
+899     Iloperidone     Risperidone  0.21 [ 0.10;  0.33]
+899         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+900     Iloperidone     Risperidone  0.21 [ 0.10;  0.33]
+900         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+900     Iloperidone         Placebo -0.33 [-0.44; -0.21]
+942     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+942     Haloperidol      Sertindole -0.07 [-0.21;  0.06]
+942         Placebo      Sertindole  0.39 [ 0.25;  0.53]
+944      Quetiapine     Risperidone  0.13 [ 0.03;  0.23]
+901    Aripiprazole     Haloperidol  0.06 [-0.05;  0.16]
+901    Aripiprazole         Placebo -0.41 [-0.50; -0.31]
+901     Haloperidol         Placebo -0.46 [-0.53; -0.40]
+904         Placebo     Risperidone  0.54 [ 0.47;  0.61]
+915     Haloperidol      Olanzapine  0.09 [ 0.01;  0.16]
+922        Loxapine         Placebo -0.44 [-0.63; -0.25]
+922         Placebo     Thiothixene  0.61 [ 0.26;  0.96]
+922        Loxapine     Thiothixene  0.17 [-0.19;  0.53]
+923         Placebo      Sertindole  0.39 [ 0.25;  0.53]
+936     Amisulpride     Flupentixol -0.32 [-0.66;  0.02]
+945     Amisulpride     Haloperidol -0.26 [-0.41; -0.11]
+946     Haloperidol      Sertindole -0.07 [-0.21;  0.06]
+946         Placebo      Sertindole  0.39 [ 0.25;  0.53]
+ [ reached getOption("max.print") -- omitted 75 rows ]
+
+Number of studies: k = 218
+Number of treatments: n = 33
+Number of pairwise comparisons: m = 325
+Number of designs: d = 106
+
+Random effects model
+
+Treatment estimate (sm = 'SMD', comparison: other treatments vs 'Placebo'):
+                  SMD         95%-CI
+Amisulpride     -0.73 [-0.88; -0.58]
+Aripiprazole    -0.41 [-0.50; -0.31]
+Asenapine       -0.38 [-0.51; -0.26]
+Brexpiprazole   -0.26 [-0.39; -0.12]
+Cariprazine     -0.34 [-0.49; -0.20]
+Chlorpromazine  -0.44 [-0.57; -0.30]
+Clopenthixol    -0.40 [-0.78; -0.03]
+Clozapine       -0.87 [-1.06; -0.68]
+Flupentixol     -0.41 [-0.76; -0.06]
+Fluphenazine    -0.24 [-0.63;  0.15]
+Haloperidol     -0.46 [-0.53; -0.40]
+Iloperidone     -0.33 [-0.44; -0.21]
+Levomepromazin  -0.05 [-0.62;  0.53]
+Loxapine        -0.44 [-0.63; -0.25]
+Lurasidone      -0.36 [-0.48; -0.24]
+Molindone       -0.41 [-0.79; -0.03]
+Olanzapine      -0.55 [-0.62; -0.49]
+Paliperidone    -0.48 [-0.59; -0.38]
+Penfluridol     -0.39 [-1.16;  0.39]
+Perazine        -0.30 [-0.76;  0.16]
+Perphenazine    -0.55 [-0.74; -0.37]
+Pimozide        -0.30 [-0.75;  0.16]
+Placebo             .              .
+Quetiapine      -0.41 [-0.50; -0.33]
+Risperidone     -0.54 [-0.61; -0.47]
+Sertindole      -0.39 [-0.53; -0.25]
+Sulpiride       -0.49 [-0.89; -0.08]
+Thioridazine    -0.54 [-0.83; -0.25]
+Thiothixene     -0.61 [-0.96; -0.26]
+Trifluoperazine -0.24 [-0.54;  0.06]
+Ziprasidone     -0.40 [-0.51; -0.30]
+Zotepine        -0.60 [-0.81; -0.38]
+Zuclopenthixol  -0.50 [-0.74; -0.26]
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0.0138; I^2 = 34.5%
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                     Q d.f.  p-value
+Total           361.69  237 < 0.0001
+Within designs  181.37  124   0.0006
+Between designs 180.23  113 < 0.0001
+
+  P-SCORES  
+
+  INCONSISTENCY  
+Back-calculation method to split direct and indirect evidence
+
+Random effects model: 
+
+                    comparison  k prop   nma direct indir.  Diff     z p-value
+       Amisulpride:Flupentixol  1 0.66 -0.32  -0.48  -0.00 -0.48 -1.31  0.1888
+       Amisulpride:Haloperidol  6 0.47 -0.26  -0.28  -0.25 -0.03 -0.23  0.8203
+        Amisulpride:Olanzapine  2 0.29 -0.17  -0.15  -0.19  0.04  0.23  0.8171
+          Amisulpride:Perazine  1 0.31 -0.43  -0.58  -0.36 -0.23 -0.44  0.6584
+       Amisulpride:Risperidone  2 0.26 -0.19  -0.08  -0.22  0.15  0.82  0.4114
+    Aripiprazole:Brexpiprazole  1 0.15 -0.15  -0.09  -0.16  0.07  0.31  0.7571
+      Aripiprazole:Cariprazine  1 0.29 -0.06   0.02  -0.10  0.12  0.66  0.5116
+      Aripiprazole:Haloperidol  3 0.19  0.06   0.00   0.07 -0.07 -0.50  0.6198
+       Aripiprazole:Olanzapine  4 0.35  0.15   0.15   0.14  0.01  0.05  0.9599
+          Aripiprazole:Placebo  9 0.53 -0.41  -0.38  -0.44  0.05  0.56  0.5730
+      Aripiprazole:Risperidone  2 0.15  0.13   0.07   0.14 -0.07 -0.45  0.6501
+      Aripiprazole:Ziprasidone  1 0.15 -0.00  -0.16   0.02 -0.18 -0.97  0.3345
+         Asenapine:Haloperidol  1 0.18  0.08  -0.02   0.10 -0.12 -0.68  0.4973
+          Asenapine:Olanzapine  3 0.39  0.17   0.14   0.19 -0.05 -0.36  0.7192
+             Asenapine:Placebo  6 0.81 -0.38  -0.30  -0.74  0.44  2.66  0.0079
+         Asenapine:Risperidone  1 0.10  0.16  -0.14   0.19 -0.33 -1.42  0.1549
+         Brexpiprazole:Placebo  5 0.92 -0.26  -0.25  -0.31  0.06  0.24  0.8113
+      Brexpiprazole:Quetiapine  1 0.23  0.15   0.21   0.14  0.08  0.42  0.6715
+           Cariprazine:Placebo  4 0.83 -0.34  -0.37  -0.23 -0.13 -0.69  0.4912
+       Cariprazine:Risperidone  1 0.26  0.20   0.34   0.15  0.19  1.08  0.2780
+   Chlorpromazine:Clopenthixol  2 0.54 -0.03  -0.04  -0.03 -0.01 -0.02  0.9858
+      Chlorpromazine:Clozapine  4 0.28  0.43   0.38   0.45 -0.07 -0.28  0.7827
+   Chlorpromazine:Fluphenazine  1 0.34 -0.20  -0.22  -0.18 -0.04 -0.10  0.9223
+    Chlorpromazine:Haloperidol  1 0.03  0.03  -0.29   0.04 -0.33 -0.77  0.4439
+       Chlorpromazine:Loxapine  4 0.45  0.00   0.13  -0.09  0.22  1.10  0.2725
+      Chlorpromazine:Molindone  2 0.59 -0.03  -0.08   0.05 -0.12 -0.32  0.7486
+       Chlorpromazine:Pimozide  1 0.46 -0.14  -0.54   0.20 -0.74 -1.58  0.1142
+        Chlorpromazine:Placebo 11 0.40 -0.44  -0.52  -0.39 -0.13 -0.93  0.3515
+     Chlorpromazine:Quetiapine  2 0.35 -0.03  -0.06  -0.01 -0.05 -0.32  0.7514
+      Chlorpromazine:Sulpiride  1 0.51  0.05   0.27  -0.18  0.45  1.12  0.2641
+   Chlorpromazine:Thioridazine  1 0.20  0.10   0.21   0.08  0.13  0.35  0.7300
+       Chlorpromazine:Zotepine  1 0.27  0.16   0.74  -0.06  0.79  2.90  0.0037
+ Chlorpromazine:Zuclopenthixol  1 0.28  0.06  -0.02   0.09 -0.11 -0.39  0.7000
+      Clopenthixol:Haloperidol  1 0.24  0.06  -0.01   0.08 -0.10 -0.22  0.8261
+     Clopenthixol:Perphenazine  1 0.40  0.15   0.39  -0.02  0.41  1.01  0.3106
+          Clopenthixol:Placebo  1 0.21 -0.40  -0.96  -0.26 -0.69 -1.47  0.1412
+         Clozapine:Haloperidol  6 0.54 -0.40  -0.49  -0.30 -0.19 -0.99  0.3207
+          Clozapine:Olanzapine  1 0.07 -0.31  -0.23  -0.32  0.09  0.23  0.8152
+             Clozapine:Placebo  1 0.03 -0.87  -1.65  -0.84 -0.81 -1.49  0.1369
+         Clozapine:Risperidone  2 0.18 -0.32  -0.17  -0.36  0.19  0.72  0.4711
+            Clozapine:Zotepine  1 0.19 -0.27  -0.08  -0.32  0.24  0.70  0.4847
+        Flupentixol:Olanzapine  1 0.19  0.14  -0.10   0.20 -0.30 -0.64  0.5201
+           Flupentixol:Placebo  1 0.20 -0.41  -0.75  -0.32 -0.43 -0.97  0.3305
+      Fluphenazine:Haloperidol  1 0.42  0.22   0.12   0.30 -0.18 -0.45  0.6545
+         Fluphenazine:Pimozide  1 0.34  0.06   0.16   0.00  0.16  0.28  0.7765
+          Fluphenazine:Placebo  1 0.31 -0.24  -0.24  -0.24 -0.01 -0.01  0.9902
+     Fluphenazine:Thioridazine  1 0.43  0.30   0.43   0.20  0.23  0.50  0.6196
+       Haloperidol:Iloperidone  4 0.52 -0.14  -0.08  -0.20  0.13  1.11  0.2686
+    Haloperidol:Levomepromazin  1 0.77 -0.42  -0.14  -1.31  1.17  1.69  0.0901
+          Haloperidol:Loxapine  2 0.19 -0.02  -0.38   0.06 -0.44 -1.75  0.0795
+        Haloperidol:Lurasidone  1 0.13 -0.10  -0.28  -0.08 -0.20 -0.99  0.3202
+        Haloperidol:Olanzapine  9 0.29  0.09   0.09   0.09  0.01  0.10  0.9191
+          Haloperidol:Pimozide  1 0.35 -0.17   0.27  -0.41  0.68  1.40  0.1600
+           Haloperidol:Placebo 23 0.46 -0.46  -0.51  -0.43 -0.08 -1.29  0.1960
+        Haloperidol:Quetiapine  3 0.22 -0.05  -0.08  -0.05 -0.03 -0.25  0.8043
+       Haloperidol:Risperidone 15 0.32  0.08   0.15   0.05  0.10  1.22  0.2223
+        Haloperidol:Sertindole  3 0.52 -0.07  -0.12  -0.02 -0.10 -0.69  0.4888
+      Haloperidol:Thioridazine  1 0.06  0.08   0.52   0.05  0.47  0.74  0.4576
+   Haloperidol:Trifluoperazine  2 0.24 -0.23  -0.54  -0.13 -0.40 -1.12  0.2638
+       Haloperidol:Ziprasidone  3 0.19 -0.06  -0.02  -0.07  0.06  0.39  0.6993
+          Haloperidol:Zotepine  4 0.58  0.13  -0.08   0.43 -0.52 -2.36  0.0181
+    Haloperidol:Zuclopenthixol  3 0.39  0.04   0.11  -0.01  0.13  0.51  0.6101
+           Iloperidone:Placebo  4 0.51 -0.33  -0.24  -0.42  0.18  1.54  0.1246
+       Iloperidone:Risperidone  2 0.29  0.21   0.26   0.19  0.07  0.50  0.6191
+       Iloperidone:Ziprasidone  1 0.22  0.08   0.02   0.09 -0.08 -0.44  0.6606
+    Levomepromazin:Risperidone  1 0.73  0.50   0.80  -0.32  1.12  1.69  0.0901
+              Loxapine:Placebo  6 0.47 -0.44  -0.41  -0.47  0.06  0.28  0.7772
+         Loxapine:Thioridazine  1 0.16  0.10  -0.20   0.15 -0.36 -0.80  0.4247
+          Loxapine:Thiothixene  2 0.64  0.17  -0.07   0.60 -0.67 -1.75  0.0797
+      Loxapine:Trifluoperazine  3 0.56 -0.21  -0.07  -0.37  0.30  0.97  0.3313
+         Lurasidone:Olanzapine  1 0.17  0.19   0.18   0.19 -0.01 -0.06  0.9560
+            Lurasidone:Placebo  7 0.85 -0.36  -0.39  -0.19 -0.20 -1.19  0.2352
+         Lurasidone:Quetiapine  1 0.19  0.05   0.18   0.02  0.16  0.86  0.3905
+             Molindone:Placebo  1 0.23 -0.41  -0.67  -0.33 -0.34 -0.75  0.4538
+     Molindone:Trifluoperazine  2 0.51 -0.17  -0.12  -0.22  0.10  0.25  0.8005
+       Olanzapine:Paliperidone  6 0.63 -0.07  -0.06  -0.09  0.03  0.30  0.7666
+       Olanzapine:Perphenazine  1 0.45 -0.00  -0.11   0.09 -0.21 -1.06  0.2888
+            Olanzapine:Placebo 20 0.51 -0.55  -0.53  -0.58  0.05  0.86  0.3885
+         Olanzapine:Quetiapine  4 0.19 -0.14  -0.16  -0.14 -0.02 -0.14  0.8906
+        Olanzapine:Risperidone  4 0.17 -0.01  -0.15   0.02 -0.17 -1.54  0.1229
+         Olanzapine:Sertindole  1 0.22 -0.16  -0.23  -0.14 -0.09 -0.49  0.6219
+        Olanzapine:Ziprasidone  4 0.32 -0.15  -0.20  -0.12 -0.08 -0.63  0.5285
+          Paliperidone:Placebo  7 0.71 -0.48  -0.50  -0.45 -0.05 -0.39  0.6997
+             Perazine:Zotepine  2 0.76  0.30   0.24   0.47 -0.23 -0.44  0.6584
+          Perphenazine:Placebo  1 0.09 -0.55  -0.85  -0.52 -0.33 -0.96  0.3375
+       Perphenazine:Quetiapine  1 0.47 -0.14  -0.08  -0.20  0.12  0.59  0.5564
+      Perphenazine:Risperidone  2 0.61 -0.01  -0.05   0.05 -0.10 -0.50  0.6179
+      Perphenazine:Ziprasidone  1 0.46 -0.15  -0.16  -0.14 -0.01 -0.07  0.9460
+   Perphenazine:Zuclopenthixol  1 0.19 -0.05   0.08  -0.08  0.17  0.45  0.6541
+            Quetiapine:Placebo  9 0.48 -0.41  -0.43  -0.39 -0.04 -0.42  0.6719
+           Risperidone:Placebo 17 0.51 -0.54  -0.56  -0.53 -0.03 -0.42  0.6756
+            Sertindole:Placebo  3 0.40 -0.39  -0.36  -0.41  0.05  0.31  0.7534
+          Thioridazine:Placebo  5 0.55 -0.54  -0.68  -0.37 -0.32 -1.07  0.2832
+           Thiothixene:Placebo  2 0.63 -0.61  -0.32  -1.10  0.78  2.09  0.0366
+       Trifluoperazine:Placebo  1 0.12 -0.24  -0.68  -0.18 -0.51 -1.08  0.2796
+           Ziprasidone:Placebo  4 0.32 -0.40  -0.38  -0.41  0.03  0.25  0.8010
+              Zotepine:Placebo  1 0.22 -0.60  -0.82  -0.53 -0.28 -1.07  0.2840
+        Quetiapine:Risperidone  4 0.31  0.13   0.10   0.15 -0.05 -0.47  0.6413
+        Quetiapine:Ziprasidone  1 0.19 -0.01  -0.08   0.01 -0.09 -0.51  0.6080
+        Risperidone:Sertindole  1 0.15 -0.15   0.15  -0.20  0.35  1.69  0.0906
+       Risperidone:Ziprasidone  3 0.35 -0.14  -0.06  -0.18  0.12  0.99  0.3214
+    Risperidone:Zuclopenthixol  1 0.28 -0.04  -0.15  -0.00 -0.14 -0.52  0.6004
+        Sulpiride:Thioridazine  1 0.36  0.06   0.59  -0.25  0.84  1.81  0.0706
+     Sulpiride:Trifluoperazine  1 0.38 -0.25  -0.40  -0.16 -0.24 -0.52  0.6054
+      Thioridazine:Thiothixene  1 0.34  0.07   0.94  -0.37  1.31  3.03  0.0025
+
+Legend:
+ comparison - Treatment comparison
+ k          - Number of studies providing direct evidence
+ prop       - Direct evidence proportion
+ nma        - Estimated treatment effect (SMD) in network meta-analysis
+ direct     - Estimated treatment effect (SMD) derived from direct evidence
+ indir.     - Estimated treatment effect (SMD) derived from indirect evidence
+ Diff       - Difference between direct and indirect treatment estimates
+ z          - z-value of test for disagreement (direct versus indirect)
+ p-value    - p-value of test for disagreement (direct versus indirect)
+Q statistics to assess homogeneity / consistency
+
+                     Q  df  p-value
+Total           361.59 237 < 0.0001
+Within designs  181.37 124   0.0006
+Between designs 180.23 113 < 0.0001
+
+Design-specific decomposition of within-designs Q statistic
+
+                           Design     Q df p-value
+          Amisulpride:Haloperidol  2.78  5  0.7339
+           Amisulpride:Olanzapine  1.50  1  0.2202
+          Amisulpride:Risperidone  1.60  1  0.2065
+          Aripiprazole:Olanzapine  6.29  3  0.0985
+         Chlorpromazine:Clozapine  6.07  2  0.0482
+          Chlorpromazine:Loxapine  5.08  2  0.0790
+        Chlorpromazine:Quetiapine  1.11  1  0.2912
+            Clozapine:Haloperidol  5.59  4  0.2317
+          Haloperidol:Iloperidone  0.23  2  0.8911
+           Haloperidol:Olanzapine  7.08  7  0.4208
+           Haloperidol:Quetiapine  0.58  1  0.4462
+          Haloperidol:Risperidone 22.68  9  0.0070
+      Haloperidol:Trifluoperazine  0.05  1  0.8254
+          Haloperidol:Ziprasidone  1.00  1  0.3168
+             Haloperidol:Zotepine  5.52  3  0.1374
+       Haloperidol:Zuclopenthixol  1.58  2  0.4532
+         Loxapine:Trifluoperazine  1.55  1  0.2124
+        Molindone:Trifluoperazine  0.86  1  0.3539
+          Olanzapine:Paliperidone  0.38  1  0.5350
+            Olanzapine:Quetiapine  0.31  1  0.5784
+           Olanzapine:Risperidone  0.89  1  0.3445
+           Olanzapine:Ziprasidone  1.79  2  0.4090
+                Perazine:Zotepine  3.53  1  0.0603
+             Placebo:Aripiprazole  3.74  2  0.1540
+            Placebo:Brexpiprazole  1.59  2  0.4515
+              Placebo:Cariprazine  0.25  1  0.6165
+           Placebo:Chlorpromazine  0.47  4  0.9761
+              Placebo:Haloperidol  8.27  5  0.1419
+               Placebo:Lurasidone  5.63  3  0.1311
+               Placebo:Olanzapine 25.91 10  0.0039
+             Placebo:Paliperidone  3.45  2  0.1778
+               Placebo:Quetiapine  8.23  5  0.1438
+              Placebo:Risperidone 13.03  8  0.1107
+             Placebo:Thioridazine  0.78  2  0.6762
+              Placebo:Ziprasidone  0.02  1  0.8857
+           Quetiapine:Risperidone  2.29  1  0.1300
+          Risperidone:Ziprasidone  0.02  1  0.8835
+ Placebo:Aripiprazole:Haloperidol  4.55  4  0.3364
+     Placebo:Asenapine:Olanzapine  7.67  4  0.1045
+  Placebo:Haloperidol:Risperidone  3.75  4  0.4414
+   Placebo:Haloperidol:Sertindole  1.60  2  0.4487
+  Placebo:Iloperidone:Risperidone  0.51  2  0.7768
+     Placebo:Loxapine:Thiothixene  7.26  2  0.0265
+  Placebo:Olanzapine:Paliperidone  4.27  6  0.6403
+
+Between-designs Q statistic after detaching of single designs
+
+                                            Detached design      Q  df  p-value
+                                    Amisulpride:Flupentixol 177.92 112 < 0.0001
+                                    Amisulpride:Haloperidol 180.17 112 < 0.0001
+                                     Amisulpride:Olanzapine 180.15 112 < 0.0001
+                                       Amisulpride:Perazine 179.96 112 < 0.0001
+                                    Amisulpride:Risperidone 179.66 112 < 0.0001
+                                    Aripiprazole:Olanzapine 180.05 112 < 0.0001
+                                   Aripiprazole:Risperidone 180.19 112 < 0.0001
+                                   Aripiprazole:Ziprasidone 178.59 112 < 0.0001
+                                Chlorpromazine:Clopenthixol 179.84 112 < 0.0001
+                                   Chlorpromazine:Clozapine 179.26 112 < 0.0001
+                                    Chlorpromazine:Loxapine 179.69 112 < 0.0001
+                                   Chlorpromazine:Molindone 180.21 112 < 0.0001
+                                    Chlorpromazine:Pimozide 177.54 112 < 0.0001
+                                  Chlorpromazine:Quetiapine 179.88 112 < 0.0001
+                                   Chlorpromazine:Sulpiride 178.78 112 < 0.0001
+                              Chlorpromazine:Zuclopenthixol 180.11 112 < 0.0001
+                                  Clopenthixol:Perphenazine 179.03 112 < 0.0001
+                                      Clozapine:Haloperidol 179.11 112 < 0.0001
+                                       Clozapine:Olanzapine 180.21 112 < 0.0001
+                                      Clozapine:Risperidone 179.92 112 < 0.0001
+                                         Clozapine:Zotepine 179.77 112 < 0.0001
+                                     Flupentixol:Olanzapine 179.57 112 < 0.0001
+                                   Fluphenazine:Haloperidol 180.04 112 < 0.0001
+                                      Fluphenazine:Pimozide 180.13 112 < 0.0001
+                                    Haloperidol:Iloperidone 177.07 112 < 0.0001
+                                       Haloperidol:Loxapine 174.94 112   0.0001
+                                     Haloperidol:Olanzapine 179.44 112 < 0.0001
+                                       Haloperidol:Pimozide 178.11 112 < 0.0001
+                                     Haloperidol:Quetiapine 179.52 112 < 0.0001
+                                    Haloperidol:Risperidone 180.01 112 < 0.0001
+                                     Haloperidol:Sertindole 180.13 112 < 0.0001
+                                Haloperidol:Trifluoperazine 178.77 112 < 0.0001
+                                    Haloperidol:Ziprasidone 175.30 112   0.0001
+                                       Haloperidol:Zotepine 173.11 112   0.0002
+                                 Haloperidol:Zuclopenthixol 179.95 112 < 0.0001
+                                      Loxapine:Thioridazine 179.54 112 < 0.0001
+                                   Loxapine:Trifluoperazine 180.23 112 < 0.0001
+                                  Molindone:Trifluoperazine 180.16 112 < 0.0001
+                                    Olanzapine:Paliperidone 180.21 112 < 0.0001
+                                      Olanzapine:Quetiapine 179.58 112 < 0.0001
+                                     Olanzapine:Risperidone 180.16 112 < 0.0001
+                                      Olanzapine:Sertindole 180.04 112 < 0.0001
+                                     Olanzapine:Ziprasidone 179.82 112 < 0.0001
+                                          Perazine:Zotepine 179.96 112 < 0.0001
+                                   Perphenazine:Risperidone 179.38 112 < 0.0001
+                                Perphenazine:Zuclopenthixol 179.98 112 < 0.0001
+                                       Placebo:Aripiprazole 179.66 112 < 0.0001
+                                          Placebo:Asenapine 173.74 112   0.0002
+                                      Placebo:Brexpiprazole 178.94 112 < 0.0001
+                                        Placebo:Cariprazine 180.04 112 < 0.0001
+                                     Placebo:Chlorpromazine 177.84 112 < 0.0001
+                                        Placebo:Flupentixol 178.98 112 < 0.0001
+                                        Placebo:Haloperidol 177.61 112 < 0.0001
+                                           Placebo:Loxapine 180.18 112 < 0.0001
+                                         Placebo:Lurasidone 179.89 112 < 0.0001
+                                         Placebo:Olanzapine 178.70 112 < 0.0001
+                                       Placebo:Paliperidone 171.85 112   0.0002
+                                       Placebo:Perphenazine 179.08 112 < 0.0001
+                                         Placebo:Quetiapine 176.42 112 < 0.0001
+                                        Placebo:Risperidone 180.07 112 < 0.0001
+                                         Placebo:Sertindole 179.80 112 < 0.0001
+                                       Placebo:Thioridazine 179.57 112 < 0.0001
+                                        Placebo:Ziprasidone 179.33 112 < 0.0001
+                                     Quetiapine:Risperidone 179.89 112 < 0.0001
+                                     Risperidone:Sertindole 175.98 112   0.0001
+                                    Risperidone:Ziprasidone 179.91 112 < 0.0001
+                                 Risperidone:Zuclopenthixol 179.89 112 < 0.0001
+                                     Sulpiride:Thioridazine 176.55 112 < 0.0001
+                                  Sulpiride:Trifluoperazine 179.97 112 < 0.0001
+                                   Thioridazine:Thiothixene 169.81 112   0.0004
+                          Clozapine:Haloperidol:Risperidone 179.99 111 < 0.0001
+                     Haloperidol:Levomepromazin:Risperidone 177.05 112 < 0.0001
+ Olanzapine:Perphenazine:Quetiapine:Risperidone:Ziprasidone 171.17 109   0.0001
+                          Olanzapine:Quetiapine:Risperidone 180.08 111 < 0.0001
+                         Placebo:Aripiprazole:Brexpiprazole 178.10 111 < 0.0001
+                           Placebo:Aripiprazole:Cariprazine 179.13 111 < 0.0001
+                           Placebo:Aripiprazole:Haloperidol 179.05 111 < 0.0001
+                           Placebo:Aripiprazole:Risperidone 179.97 111 < 0.0001
+                              Placebo:Asenapine:Haloperidol 179.15 111 < 0.0001
+                               Placebo:Asenapine:Olanzapine 158.94 111   0.0019
+                              Placebo:Asenapine:Risperidone 177.81 111 < 0.0001
+                           Placebo:Brexpiprazole:Quetiapine 179.62 111 < 0.0001
+                            Placebo:Cariprazine:Risperidone 175.58 111 < 0.0001
+            Placebo:Chlorpromazine:Clopenthixol:Haloperidol 176.74 110 < 0.0001
+                           Placebo:Chlorpromazine:Clozapine 177.57 111 < 0.0001
+           Placebo:Chlorpromazine:Fluphenazine:Thioridazine 179.91 110 < 0.0001
+                            Placebo:Chlorpromazine:Loxapine 179.43 111 < 0.0001
+                           Placebo:Chlorpromazine:Molindone 178.89 111 < 0.0001
+                            Placebo:Chlorpromazine:Zotepine 169.13 111   0.0003
+                            Placebo:Haloperidol:Iloperidone 179.53 111 < 0.0001
+                               Placebo:Haloperidol:Loxapine 179.96 111 < 0.0001
+                             Placebo:Haloperidol:Lurasidone 169.67 111   0.0003
+                             Placebo:Haloperidol:Olanzapine 179.20 111 < 0.0001
+                             Placebo:Haloperidol:Quetiapine 178.94 111 < 0.0001
+                            Placebo:Haloperidol:Risperidone 169.76 111   0.0003
+                             Placebo:Haloperidol:Sertindole 177.73 111 < 0.0001
+                           Placebo:Haloperidol:Thioridazine 179.68 111 < 0.0001
+                            Placebo:Haloperidol:Ziprasidone 176.71 111 < 0.0001
+                            Placebo:Iloperidone:Risperidone 178.27 111 < 0.0001
+                            Placebo:Iloperidone:Ziprasidone 179.18 111 < 0.0001
+                               Placebo:Loxapine:Thiothixene 169.79 111   0.0003
+                           Placebo:Loxapine:Trifluoperazine 177.62 111 < 0.0001
+                              Placebo:Lurasidone:Olanzapine 180.09 111 < 0.0001
+                              Placebo:Lurasidone:Quetiapine 165.81 111   0.0006
+                            Placebo:Olanzapine:Paliperidone 171.54 111   0.0002
+
+Q statistic to assess consistency under the assumption of
+a full design-by-treatment interaction random effects model
+
+                     Q  df p-value tau.within tau2.within
+Between designs 122.75 113  0.2498     0.1150      0.0132
+
+ 
+ 
+ JAGS output 
+ 
+ 
+[1] "Note: the treatments have been renamed as follows"
+         old names new names
+1      Amisulpride         1
+2     Aripiprazole         2
+3        Asenapine         3
+4    Brexpiprazole         4
+5      Cariprazine         5
+6   Chlorpromazine         6
+7     Clopenthixol         7
+8        Clozapine         8
+9      Flupentixol         9
+10    Fluphenazine        10
+11     Haloperidol        11
+12     Iloperidone        12
+13  Levomepromazin        13
+14        Loxapine        14
+15      Lurasidone        15
+16       Molindone        16
+17      Olanzapine        17
+18    Paliperidone        18
+19     Penfluridol        19
+20        Perazine        20
+21    Perphenazine        21
+22        Pimozide        22
+23         Placebo        23
+24      Quetiapine        24
+25     Risperidone        25
+26      Sertindole        26
+27       Sulpiride        27
+28    Thioridazine        28
+29     Thiothixene        29
+30 Trifluoperazine        30
+31     Ziprasidone        31
+32        Zotepine        32
+33  Zuclopenthixol        33
+Inference for Bugs model at "modelNMAContinuous", fit using jags,
+ 2 chains, each with 1e+05 iterations (first 5000 discarded), n.thin = 10
+ n.sims = 19000 iterations saved
+            mu.vect sd.vect   2.5%    25%    50%    75%  97.5%  Rhat n.eff
+SMD[1,2]     -0.324   0.087 -0.495 -0.382 -0.323 -0.265 -0.149 1.001 14000
+SMD[1,3]     -0.344   0.098 -0.537 -0.409 -0.344 -0.279 -0.151 1.001  3600
+SMD[2,3]     -0.020   0.078 -0.173 -0.072 -0.021  0.032  0.134 1.001  7600
+SMD[1,4]     -0.478   0.103 -0.678 -0.546 -0.478 -0.409 -0.276 1.001  5900
+SMD[2,4]     -0.154   0.083 -0.316 -0.210 -0.154 -0.098  0.008 1.001 19000
+SMD[3,4]     -0.134   0.094 -0.319 -0.197 -0.134 -0.071  0.052 1.001 19000
+SMD[1,5]     -0.389   0.105 -0.596 -0.458 -0.389 -0.318 -0.183 1.001  5300
+SMD[2,5]     -0.065   0.083 -0.230 -0.120 -0.065 -0.009  0.095 1.001 14000
+SMD[3,5]     -0.045   0.097 -0.235 -0.109 -0.045  0.020  0.146 1.001 19000
+SMD[4,5]      0.089   0.101 -0.109  0.021  0.088  0.156  0.290 1.001 19000
+SMD[1,6]     -0.290   0.100 -0.485 -0.356 -0.289 -0.223 -0.092 1.001  2800
+SMD[2,6]      0.034   0.081 -0.123 -0.021  0.034  0.088  0.194 1.001  5000
+SMD[3,6]      0.054   0.092 -0.124 -0.007  0.054  0.115  0.236 1.001 19000
+SMD[4,6]      0.188   0.095  0.002  0.124  0.187  0.251  0.377 1.001 19000
+SMD[5,6]      0.099   0.099 -0.095  0.032  0.099  0.165  0.292 1.001 19000
+SMD[1,7]     -0.311   0.196 -0.694 -0.442 -0.311 -0.180  0.073 1.001 19000
+SMD[2,7]      0.013   0.188 -0.357 -0.114  0.013  0.139  0.383 1.001 19000
+SMD[3,7]      0.033   0.193 -0.345 -0.097  0.032  0.163  0.416 1.001 19000
+SMD[4,7]      0.167   0.194 -0.213  0.037  0.165  0.296  0.547 1.001 19000
+SMD[5,7]      0.078   0.196 -0.308 -0.055  0.076  0.211  0.463 1.001 19000
+SMD[6,7]     -0.021   0.183 -0.383 -0.146 -0.021  0.102  0.340 1.001 19000
+SMD[1,8]      0.161   0.116 -0.067  0.082  0.161  0.239  0.389 1.002  1600
+SMD[2,8]      0.484   0.103  0.283  0.414  0.484  0.552  0.687 1.002  2500
+SMD[3,8]      0.504   0.112  0.286  0.430  0.503  0.579  0.726 1.001  7900
+SMD[4,8]      0.638   0.115  0.416  0.560  0.637  0.715  0.867 1.001  4300
+SMD[5,8]      0.549   0.118  0.321  0.470  0.550  0.628  0.780 1.001  7900
+SMD[6,8]      0.450   0.103  0.249  0.381  0.450  0.520  0.653 1.001 11000
+SMD[7,8]      0.472   0.202  0.074  0.336  0.470  0.608  0.872 1.001  9000
+SMD[1,9]     -0.311   0.170 -0.647 -0.426 -0.311 -0.197  0.022 1.001 19000
+SMD[2,9]      0.012   0.180 -0.341 -0.110  0.011  0.133  0.365 1.001 19000
+SMD[3,9]      0.032   0.186 -0.330 -0.093  0.031  0.157  0.398 1.001 18000
+SMD[4,9]      0.166   0.189 -0.202  0.039  0.166  0.291  0.540 1.001 19000
+SMD[5,9]      0.077   0.189 -0.290 -0.049  0.075  0.203  0.449 1.001 19000
+SMD[6,9]     -0.022   0.187 -0.383 -0.149 -0.023  0.104  0.346 1.001 13000
+SMD[7,9]      0.000   0.250 -0.492 -0.165  0.002  0.166  0.491 1.001 19000
+SMD[8,9]     -0.472   0.196 -0.855 -0.603 -0.473 -0.342 -0.090 1.001  5500
+SMD[1,10]    -0.490   0.204 -0.893 -0.629 -0.488 -0.354 -0.089 1.001 19000
+SMD[2,10]    -0.167   0.196 -0.554 -0.298 -0.166 -0.035  0.218 1.001 19000
+SMD[3,10]    -0.146   0.201 -0.541 -0.280 -0.145 -0.011  0.249 1.001 16000
+SMD[4,10]    -0.013   0.203 -0.407 -0.148 -0.014  0.127  0.384 1.001 19000
+SMD[5,10]    -0.102   0.204 -0.507 -0.240 -0.100  0.037  0.296 1.001 19000
+SMD[6,10]    -0.200   0.196 -0.585 -0.332 -0.200 -0.067  0.180 1.001 11000
+SMD[7,10]    -0.179   0.259 -0.686 -0.353 -0.178 -0.007  0.335 1.001 19000
+SMD[8,10]    -0.651   0.208 -1.061 -0.789 -0.652 -0.509 -0.245 1.001  5400
+SMD[9,10]    -0.179   0.257 -0.683 -0.347 -0.180 -0.006  0.317 1.001 19000
+SMD[1,11]    -0.263   0.074 -0.407 -0.312 -0.263 -0.212 -0.115 1.001  4700
+SMD[2,11]     0.061   0.053 -0.044  0.025  0.061  0.097  0.166 1.001 19000
+SMD[3,11]     0.081   0.069 -0.055  0.035  0.081  0.127  0.218 1.001 16000
+SMD[4,11]     0.215   0.075  0.070  0.164  0.215  0.265  0.364 1.001 19000
+SMD[5,11]     0.126   0.078 -0.027  0.073  0.125  0.178  0.280 1.001 19000
+SMD[6,11]     0.027   0.070 -0.111 -0.020  0.028  0.074  0.163 1.001  7500
+SMD[7,11]     0.048   0.183 -0.312 -0.075  0.048  0.171  0.414 1.001 19000
+SMD[8,11]    -0.423   0.091 -0.603 -0.485 -0.424 -0.361 -0.245 1.002  2600
+SMD[9,11]     0.049   0.176 -0.298 -0.069  0.049  0.168  0.390 1.001 19000
+SMD[10,11]    0.227   0.190 -0.145  0.098  0.227  0.355  0.604 1.001 19000
+SMD[1,12]    -0.404   0.092 -0.581 -0.466 -0.405 -0.343 -0.227 1.001  9900
+SMD[2,12]    -0.081   0.073 -0.224 -0.129 -0.081 -0.032  0.062 1.001 19000
+SMD[3,12]    -0.061   0.085 -0.228 -0.117 -0.061 -0.004  0.108 1.001 14000
+SMD[4,12]     0.073   0.089 -0.102  0.014  0.074  0.133  0.248 1.001 19000
+SMD[5,12]    -0.016   0.092 -0.195 -0.077 -0.016  0.045  0.167 1.001 19000
+SMD[6,12]    -0.115   0.086 -0.285 -0.172 -0.114 -0.056  0.053 1.001  7900
+SMD[7,12]    -0.093   0.189 -0.464 -0.221 -0.093  0.035  0.279 1.001 19000
+SMD[8,12]    -0.565   0.106 -0.773 -0.636 -0.565 -0.493 -0.359 1.001  2900
+SMD[9,12]    -0.093   0.183 -0.452 -0.216 -0.091  0.031  0.265 1.001 19000
+SMD[10,12]    0.086   0.198 -0.306 -0.048  0.086  0.217  0.477 1.001 19000
+SMD[11,12]   -0.142   0.057 -0.254 -0.180 -0.142 -0.104 -0.030 1.001 19000
+SMD[1,13]    -0.705   0.290 -1.271 -0.901 -0.704 -0.509 -0.138 1.002   970
+SMD[2,13]    -0.381   0.285 -0.945 -0.575 -0.380 -0.189  0.180 1.002  1100
+SMD[3,13]    -0.361   0.288 -0.922 -0.557 -0.361 -0.166  0.207 1.002  1400
+SMD[4,13]    -0.227   0.290 -0.794 -0.429 -0.226 -0.030  0.346 1.002  1300
+SMD[5,13]    -0.316   0.290 -0.885 -0.512 -0.316 -0.120  0.254 1.002  1400
+SMD[6,13]    -0.415   0.288 -0.982 -0.613 -0.412 -0.221  0.152 1.002  1500
+SMD[7,13]    -0.394   0.336 -1.047 -0.621 -0.394 -0.169  0.274 1.002  1500
+SMD[8,13]    -0.865   0.294 -1.438 -1.064 -0.867 -0.666 -0.286 1.002  2100
+SMD[9,13]    -0.393   0.331 -1.047 -0.617 -0.394 -0.169  0.250 1.002  1300
+SMD[10,13]   -0.215   0.339 -0.874 -0.445 -0.214  0.014  0.445 1.002  1300
+SMD[11,13]   -0.442   0.281 -0.993 -0.634 -0.441 -0.253  0.108 1.002  1200
+SMD[12,13]   -0.300   0.285 -0.859 -0.496 -0.300 -0.108  0.262 1.002  1200
+SMD[1,14]    -0.285   0.119 -0.520 -0.365 -0.285 -0.205 -0.051 1.002  1800
+SMD[2,14]     0.039   0.104 -0.164 -0.031  0.039  0.108  0.244 1.002  2600
+SMD[3,14]     0.059   0.112 -0.161 -0.016  0.059  0.134  0.278 1.001  9800
+SMD[4,14]     0.193   0.116 -0.035  0.113  0.193  0.270  0.425 1.001  6600
+SMD[5,14]     0.104   0.118 -0.127  0.024  0.105  0.182  0.337 1.001  8000
+SMD[6,14]     0.005   0.098 -0.189 -0.061  0.005  0.070  0.198 1.001 13000
+SMD[7,14]     0.026   0.201 -0.369 -0.111  0.025  0.162  0.421 1.001 10000
+SMD[8,14]    -0.446   0.129 -0.702 -0.531 -0.445 -0.359 -0.197 1.001 19000
+SMD[9,14]     0.026   0.198 -0.367 -0.108  0.026  0.161  0.413 1.001  6200
+SMD[10,14]    0.205   0.209 -0.203  0.062  0.206  0.346  0.620 1.001  5900
+SMD[11,14]   -0.022   0.096 -0.214 -0.086 -0.021  0.042  0.166 1.001  3200
+SMD[12,14]    0.119   0.108 -0.097  0.046  0.120  0.192  0.333 1.001  3500
+SMD[13,14]    0.420   0.295 -0.154  0.223  0.417  0.621  0.995 1.002  2000
+SMD[1,15]    -0.370   0.096 -0.562 -0.433 -0.369 -0.305 -0.181 1.001  7700
+SMD[2,15]    -0.046   0.077 -0.196 -0.098 -0.046  0.005  0.105 1.001 19000
+SMD[3,15]    -0.026   0.087 -0.196 -0.084 -0.026  0.032  0.149 1.001 19000
+SMD[4,15]     0.108   0.092 -0.073  0.047  0.107  0.169  0.290 1.001 19000
+SMD[5,15]     0.019   0.095 -0.167 -0.044  0.019  0.083  0.205 1.001 19000
+SMD[6,15]    -0.080   0.090 -0.262 -0.140 -0.079 -0.020  0.096 1.001 13000
+SMD[7,15]    -0.058   0.192 -0.440 -0.187 -0.059  0.069  0.321 1.001 19000
+SMD[8,15]    -0.530   0.111 -0.751 -0.603 -0.530 -0.457 -0.312 1.001  3800
+SMD[9,15]    -0.058   0.185 -0.422 -0.183 -0.056  0.067  0.302 1.001 19000
+SMD[10,15]    0.121   0.200 -0.271 -0.015  0.120  0.255  0.520 1.001 19000
+SMD[11,15]   -0.107   0.067 -0.240 -0.151 -0.107 -0.062  0.026 1.001 19000
+SMD[12,15]    0.035   0.083 -0.129 -0.021  0.034  0.091  0.197 1.001 19000
+SMD[13,15]    0.335   0.288 -0.226  0.140  0.336  0.530  0.897 1.002  1200
+SMD[14,15]   -0.085   0.111 -0.304 -0.159 -0.085 -0.010  0.135 1.001  4400
+SMD[1,16]    -0.321   0.202 -0.724 -0.454 -0.320 -0.186  0.073 1.001  6000
+SMD[2,16]     0.003   0.194 -0.386 -0.125  0.003  0.134  0.380 1.001 11000
+SMD[3,16]     0.023   0.199 -0.375 -0.110  0.023  0.159  0.414 1.001 19000
+SMD[4,16]     0.157   0.201 -0.247  0.025  0.156  0.291  0.548 1.001 19000
+SMD[5,16]     0.068   0.202 -0.329 -0.068  0.069  0.203  0.463 1.001 19000
+SMD[6,16]    -0.031   0.186 -0.400 -0.156 -0.031  0.093  0.334 1.001 19000
+ [ reached getOption("max.print") -- omitted 484 rows ]
+
+For each parameter, n.eff is a crude measure of effective sample size,
+and Rhat is the potential scale reduction factor (at convergence, Rhat=1).
+
+  SUCRAS  
+ [1] 0.93083882 0.44752467 0.40378454 0.17862664 0.31474836 0.52839638 0.48691612 0.98767763 0.48593914 0.24135033 0.60049836 0.27546053 0.11960033 0.53631414 0.34624342 0.47508388 0.77717105
+[18] 0.62443914 0.47378125 0.31846053 0.75336020 0.32949507 0.03057237 0.46090625 0.76085033 0.41835362 0.58068750 0.69941118 0.79912007 0.20962993 0.44772697 0.81093421 0.64609704
+
+  COMMON HETEROGENEITY  
+[1] 0.1178596
